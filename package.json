@@ -1,0 +1,17 @@
+{
+    "name": "memecoin-pump-bot",
+        "version": "1.0.0",
+        "description": "Telegram bot for Solana memecoin pump alerts with Jupiter integration",
+        "main": "memecoin-bot.js",
+        "scripts": {
+          "start": "node memecoin-bot.js",
+                "dev": "node memecoin-bot.js"
+    },
+  "keywords": ["telegram", "memecoin", "solana", "dex", "alert"],
+      "author": "Stefano",
+      "license": "MIT",
+      "dependencies": {},
+  "engines": {
+        "node": "18.x"
+  }
+}
